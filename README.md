@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- تم تعديل اللون هنا إلى ffffff (الأبيض الناصع) ليكون شديد الوضوح وعالي التباين -->
+<!-- البانر بخط Outfit الاحترافي والاسم باللون الأزرق المضيء 58a6ff شديد الوضوح -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=ffffff&fontFamily=Outfit&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
@@ -145,13 +145,13 @@ const sayedHerzallah = {
 ## 🏆 Achievements
 
 <div align="center">
-  <!-- أوسمة الإنجازات التقنية والبرمجية من بورتفوليو الخاص بك ولينكد إن بجانب بعضها -->
-  <img src="https://img.shields.io/badge/Google_Build_With_AI-Masr_Edition-58a6ff?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />&nbsp;
-  <img src="https://img.shields.io/badge/NTI_Certified-MERN_Stack-58a6ff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" />&nbsp;
-  <img src="https://img.shields.io/badge/MCIT_React_Dev-Creativa-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+  <!-- أوسمة الإنجازات التقنية والبرمجية مغلفة بروابط توجه الزائر مباشرة إلى قسم الشهادات في موقعك أو يمكنك تعديلها بروابط ملفات PDF الخاصة بك مباشرة -->
+  <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/Google_Build_With_AI-Masr_Edition-58a6ff?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/NTI_Certified-MERN_Stack-58a6ff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/MCIT_React_Dev-Creativa-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" /></a>
   <br><br>
-  <img src="https://img.shields.io/badge/DB_Engineering-MySQL_%26_MongoDB-58a6ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />&nbsp;
-  <img src="https://img.shields.io/badge/Architecture-Clean_CSM_Pattern-58a6ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+  <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/DB_Engineering-MySQL_%26_MongoDB-58a6ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/Architecture-Clean_CSM_Pattern-58a6ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" /></a>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
