@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=58a6ff&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=58a6ff&fontFamily=Outfit&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
@@ -144,7 +144,13 @@ const sayedHerzallah = {
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sayed-Herzallah&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+  <!-- أوسمة الإنجازات التقنية والبرمجية من بورتفوليو الخاص بك ولينكد إن بجانب بعضها -->
+  <img src="https://img.shields.io/badge/Google_Build_With_AI-Masr_Edition-58a6ff?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/NTI_Certified-MERN_Stack-58a6ff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/MCIT_React_Dev-Creativa-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+  <br><br>
+  <img src="https://img.shields.io/badge/DB_Engineering-MySQL_%26_MongoDB-58a6ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Architecture-Clean_CSM_Pattern-58a6ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -154,25 +160,26 @@ const sayedHerzallah = {
 
 > Production-grade systems — designed and built end-to-end.
 
+<!-- تم الترتيب التنازلي مع تقديم "عطاء" كأول وأقوى مشروع لك -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/R3aya-Care-System-Api)
+### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-React-TypeScript)
 
-**`PROBLEM`** Real-time EMG sensor data needed sub-second delivery with zero data loss.
+**`PROBLEM`** Production donation system needing audit trails and analytics.
 
 **`SOLUTION`**
-- Full-duplex WebSocket pipeline with heartbeat monitoring
-- Decoupled transport layer from business logic
-- RBAC: Therapists, Patients, Admins — granular permissions
-- MongoDB aggregation pipelines for analytics
+- Decoupled React/TypeScript frontend + Node.js API
+- Immutable donation audit trail with full history
+- Role-based dashboards with real-time analytics
+- Complex state management and form validation
 
 <p>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=d63aff" />
 </p>
 
 </td>
@@ -200,21 +207,21 @@ const sayedHerzallah = {
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-React-TypeScript)
+### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/R3aya-Care-System-Api)
 
-**`PROBLEM`** Production donation system needing audit trails and analytics.
+**`PROBLEM`** Real-time EMG sensor data needed sub-second delivery with zero data loss.
 
 **`SOLUTION`**
-- Decoupled React/TypeScript frontend + Node.js API
-- Immutable donation audit trail with full history
-- Role-based dashboards with real-time analytics
-- Complex state management and form validation
+- Full-duplex WebSocket pipeline with heartbeat monitoring
+- Decoupled transport layer from business logic
+- RBAC: Therapists, Patients, Admins — granular permissions
+- MongoDB aggregation pipelines for analytics
 
 <p>
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=d63aff" />
 </p>
 
 </td>
@@ -247,19 +254,18 @@ const sayedHerzallah = {
 ## 📈 Live Metrics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&border_radius=12" height="180px" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=12" height="180px" />
+  <!-- عرض البطاقات الثلاثة متجاورة أفقياً مع إخفاء اللغات غير المطلوبة وترشيح Node/TS فقط -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&border_radius=12" height="180px" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=12" height="180px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide=html,css,c%2B%2B,c&border_radius=12" height="180px" />
+</div>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide=html,css&border_radius=12" height="240px" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayed-Herzallah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1a3a5c&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayed-Herzallah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1a3a5c&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
