@@ -265,6 +265,21 @@ const sayedHerzallah = {
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayed-Herzallah/Sayed-Herzallah/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayed-Herzallah/Sayed-Herzallah/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sayed-Herzallah/Sayed-Herzallah/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%" />
