@@ -1,60 +1,51 @@
-# 👨‍💻 Sayed Herzallah
-### Software Engineer | Backend-focused | Node.js, TypeScript & Databases
+# Sayed Herzallah
+### Software Engineer & System Architect
+**Cairo, Egypt** • [LinkedIn](https://linkedin.com/in/sayed-herzallah) • [Portfolio](https://herzallah.me) • [Email](mailto:herzallahdeveloper@gmail.com)
 
 ---
 
-## 🚀 About Me
-I am a Software Engineer based in Cairo, Egypt. I focus on building secure, high-performance RESTful APIs, optimized database architectures, and responsive frontend clients.
-
-* 🏆 Selected in the **Top 5,000 developers** globally in *Google Build with AI (Masr Edition)*.
-* 🎓 Graduate of **Delta Higher Institute** (B.Sc. in Computer Information Systems).
-* 🛠️ Certified MERN developer from the **National Telecommunication Institute (NTI)**.
-* ⚡ Deeply focused on database indexing, transaction safety (InnoDB locking), and API performance.
+## ⚡ Core Expertise & Engineering Focus
+* **System Design & API Architecture:** Designing high-throughput, decoupled RESTful APIs using modular layered design patterns (Controller-Service-Model).
+* **Database Engineering & Query Optimization:** Optimizing complex relational schemas (MySQL/Sequelize) and document stores (MongoDB/Mongoose), indexing strategies, and cursor-based pagination.
+* **Concurrency Control & Transaction Safety:** Implementing isolation levels and InnoDB row locks to prevent race conditions in highly concurrent booking and financial engines.
+* **Real-time Telemetry Processing:** Architecting full-duplex communication pipelines using WebSockets (Socket.io) for real-time data streaming and sensor integration.
 
 ---
 
-## 🛠️ Tech Stack & Toolbox
+## 🛠️ Technology Stack (Production Verified)
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+* **Runtime & Languages:** Node.js, TypeScript, JavaScript (ES6+)
+* **Databases & ORMs:** MySQL (InnoDB), MongoDB, Sequelize ORM, Mongoose ODM
+* **Web & Network Protocols:** RESTful APIs, WebSockets (Socket.io), HTTP/S
+* **Infrastructure & Tooling:** Docker, Git/GitHub Version Control, Postman
 
-### 💻 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+*(Note: Basic web tools like HTML5, CSS3, Vercel, and Postman are omitted as they are standard baseline tools).*
 
 ---
 
-## 🛡️ Featured Production Systems
+## 🛡️ Featured System Architectures
 
-* 🌟 **[Ataa Charity Platform](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-React-TypeScript):** Full-stack charity ecosystem with real-time donation tracking and impact analytics.
-* 🏥 **[R3aya Healthcare API](https://github.com/Sayed-Herzallah/R3aya-Care-System-Api):** Modular healthcare backend processing real-time medical sensor data streams.
-* 🗺️ **[Siwa Oasis Booking API](https://github.com/Sayed-Herzallah/Siwa-Oasis-APi):** High-concurrency travel reservation system engineered using InnoDB transaction locking.
-* 💬 **[Social Media Graph API](https://github.com/Sayed-Herzallah/Social-Media-APi):** High-performance real-time communication platform utilizing WebSockets and cursor-based pagination.
+### 🏥 [R3aya Telemetry API](https://github.com/Sayed-Herzallah/R3aya-Care-System-Api) — Telemetry Stream Processing
+* **Scope:** Healthcare backend system designed for medical sensor telemetry.
+* **Highlights:** Designed to process real-time EMG sensor data streams and connect therapists with patient analytics via secure WebSockets. Separated transport layers from business logic to enable isolated unit testing.
+
+### 🗺️ [Siwa Booking Engine](https://github.com/Sayed-Herzallah/Siwa-Oasis-APi) — High-Concurrency Reservation API
+* **Scope:** Tourism and transport booking system.
+* **Highlights:** Solved double-booking and race condition issues during peak traffic by implementing database-level transactional locks (InnoDB row-level locking) to guarantee data consistency.
+
+### 🌟 [Ataa Charity Core](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-React-TypeScript) — Distributed Donation System
+* **Scope:** Production-grade full-stack charity platform.
+* **Highlights:** Engineered a decoupled React/TypeScript frontend and Node.js backend. Implemented robust audit trails for donations and analytical dashboards with optimized schema designs.
+
+### 💬 [Social Graph & Messaging Service](https://github.com/Sayed-Herzallah/Social-Media-APi) — Real-time Feed Architecture
+* **Scope:** Real-time social network backend.
+* **Highlights:** Optimized query latencies to sub-10ms by introducing cursor-based pagination for timeline retrieval. Built a WebSocket-driven messaging server supporting concurrent active connections.
 
 ---
 
-## 📊 Coding Activity & Stats
+## 📊 GitHub System Performance
 
-![Sayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=compact&theme=tokyonight&hide=html,css&hide_border=true)
-
----
-
-## 📧 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/sayed-herzallah](https://linkedin.com/in/sayed-herzallah)
-* 🌐 **Portfolio:** [herzallah.me](https://herzallah.me)
-* ✉️ **Email:** [herzallahdeveloper@gmail.com](mailto:herzallahdeveloper@gmail.com)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="180px" />
+</p>
