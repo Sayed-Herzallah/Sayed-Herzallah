@@ -4,11 +4,11 @@
 <!--                        ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=e6edf3&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=58a6ff&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=820&height=35&lines=%E2%9A%99%EF%B8%8F+Designing+High-Throughput+API+Architectures;%F0%9F%94%92+InnoDB+Row-Level+Locking+%26+Transaction+Isolation;%F0%9F%93%A1+Real-Time+WebSocket+Telemetry+Pipelines;%F0%9F%97%84%EF%B8%8F+Query+Optimization+%7C+Cursor-Based+Pagination;%F0%9F%8F%97%EF%B8%8F+Controller-Service-Model+%7C+Clean+Architecture" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=820&height=35&lines=%E2%9A%99%EF%B8%8F+Designing+High-Throughput+API+Architectures;%F0%9F%94%92+InnoDB+Row-Level+Locking+%26+Transaction+Isolation;%F0%9F%93%A1+Real-Time+WebSocket+Telemetry+Pipelines;%F0%9F%93%A1+Query+Optimization+%7C+Cursor-Based+Pagination;%F0%9F%8F%97%EF%B8%8F+Controller-Service-Model+%7C+Clean+Architecture" alt="Typing SVG" /></a>
 
 <br><br>
 
