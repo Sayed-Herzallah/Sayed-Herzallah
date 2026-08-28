@@ -4,12 +4,11 @@
 <!--                        ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- البانر بخط Outfit الاحترافي والاسم باللون الأزرق المضيء 58a6ff شديد الوضوح -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=ffffff&fontFamily=Outfit&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=ffffff&fontFamily=Outfit&animation=twinkling&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=17&descAlignY=50&descAlign=50" width="100%" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=820&height=35&lines=%E2%9A%99%EF%B8%8F+Designing+High-Throughput+API+Architectures;%F0%9F%94%92+InnoDB+Row-Level+Locking+%26+Transaction+Isolation;%F0%9F%93%A1+Real-Time+WebSocket+Telemetry+Pipelines;%F0%9F%93%A1+Query+Optimization+%7C+Cursor-Based+Pagination;%F0%9F%8F%97%EF%B8%8F+Controller-Service-Model+%7C+Clean+Architecture" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=820&height=35&lines=%E2%9A%99%EF%B8%8F+Designing+High-Throughput+API+Architectures;%F0%9F%94%92+Secure+Authentication+%26+Role-Based+Access+Control;%F0%9F%93%A1+Real-Time+WebSocket+Telemetry+Pipelines;%F0%9F%93%A1+Query+Optimization+%7C+Cursor-Based+Pagination;%F0%9F%8F%97%EF%B8%8F+Controller-Service-Model+%7C+Clean+Architecture" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -35,11 +34,11 @@
 
 ```js
 const sayedHerzallah = {
-    role:       "Backend Engineer & System Architect",
+    role:       "Full-Stack Developer & Software Engineer",
     location:   "Cairo, Egypt",
-    focus:      ["API Architecture", "Database Engineering", "Real-Time Systems"],
-    philosophy: "Design for failure. Optimize at the query level. Ship tested code.",
-    currently:  "Building high-concurrency transactional systems with Node.js & TypeScript",
+    focus:      ["Scalable Web Applications", "REST APIs", "Database Design"],
+    philosophy: "Clean code. Robust security. Optimized database queries. Production-ready systems.",
+    currently:  "Building robust full-stack platforms using React, Node.js, and MongoDB",
 };
 ```
 
@@ -55,12 +54,11 @@ const sayedHerzallah = {
 ```
   ╔══════════════════════════════════════════════════════════════════╗
   ║                                                                  ║
-  ║   ◈ Design for failure, not just for success                     ║
+  ║   ◈ Design for scalability and clean separation of concerns      ║
   ║   ◈ Optimize at the query level before scaling infrastructure    ║
-  ║   ◈ Decouple transport from business logic — always              ║
-  ║   ◈ If it's not tested, it's not shipped                         ║
-  ║   ◈ Latency is a feature, not a metric                           ║
-  ║   ◈ Write code that your future self will thank you for          ║
+  ║   ◈ Secure systems by default with robust RBAC and JWT validation ║
+  ║   ◈ Dockerize services for consistent production deployment      ║
+  ║   ◈ Clean documentation and clean Git history are essential     ║
   ║                                                                  ║
   ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -72,7 +70,7 @@ const sayedHerzallah = {
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
-## 🧬 Core Architecture Stack
+## 🧬 Core Tech Stack
 
 <div align="center">
 
@@ -129,25 +127,21 @@ const sayedHerzallah = {
 
 | Layer | Technologies |
 |:---|:---|
-| **Runtime** | Node.js (v20+), TypeScript (Strict Mode), JavaScript ES2024 |
-| **ORM / ODM** | Sequelize (MySQL/InnoDB), Mongoose (MongoDB) |
-| **Auth & Security** | JWT, Bcrypt, RBAC, Helmet, CORS, Rate Limiting |
-| **Real-time** | Socket.io (WebSockets), Event-Driven Architecture |
-| **API Design** | RESTful, Cursor-based Pagination, Idempotent Endpoints |
-| **Frontend** | React 18, Next.js 14, Angular 17, Tailwind CSS |
-| **DevOps** | Docker, Docker Compose, GitHub Actions CI/CD, Vercel |
-| **Testing** | Jest, Supertest, Postman Collections |
-| **Databases** | MySQL (InnoDB Transactions), MongoDB (Aggregation Pipelines) |
+| **Runtime / Lang** | Node.js, TypeScript, JavaScript (ES6+), PHP |
+| **Frameworks** | Express.js, React, Next.js, Angular, Laravel, Bootstrap, Tailwind CSS |
+| **Databases** | MongoDB (Mongoose), MySQL (Sequelize ORM, PDO) |
+| **Security & Auth** | JSON Web Tokens (JWT), Role-Based Access Control (RBAC), bcrypt, Helmet, Rate Limiting |
+| **Infrastructure** | Docker, Docker Compose, GitHub Actions (CI/CD), Vercel |
+| **APIs** | RESTful APIs, SSE (Server-Sent Events), Socket.io (WebSockets) |
 
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <div align="center">
-  <!-- أوسمة الإنجازات التقنية والبرمجية مغلفة بروابط توجه الزائر مباشرة إلى قسم الشهادات في موقعك أو يمكنك تعديلها بروابط ملفات PDF الخاصة بك مباشرة -->
   <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/Google_Build_With_AI-Masr_Edition-58a6ff?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" /></a>&nbsp;
   <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/NTI_Certified-MERN_Stack-58a6ff?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" /></a>&nbsp;
   <a href="https://herzallah.me#certifications" target="_blank"><img src="https://img.shields.io/badge/MCIT_React_Dev-Creativa-58a6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" /></a>
@@ -159,41 +153,42 @@ const sayedHerzallah = {
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
-## 🏗️ System Architectures
+## 🏗️ System Architectures & Featured Projects
 
-> Production-grade systems — designed and built end-to-end.
+> Production-ready platforms designed and built end-to-end.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/ataa-charity-frontend)
+### 🏫 [GradeX — Grade Management System](https://github.com/Sayed-Herzallah/gradex-backend)
 
-**`PROBLEM`** Production donation system needing audit trails and analytics.
+**`PROBLEM`** Fragmented academic records, slow bulk grade uploads, and lack of role-based dashboards.
 
 **`SOLUTION`**
-- Decoupled high-fidelity frontend templates + secure dashboards
-- Immutable donation audit trail with full history
-- Role-based dashboards with real-time analytics
-- Complex state management and form validation
+- Decoupled MERN platform linking [Frontend](https://github.com/Sayed-Herzallah/gradex-frontend) & [Backend API](https://github.com/Sayed-Herzallah/gradex-backend)
+- Bulk student creation & grade imports via Excel spreadsheet parsing
+- Multi-role dashboards (Admin, Teacher, Student) with secure RBAC
+- Robust security: JWT token versioning, Helmet, CORS, and Rate Limiting
+- Dockerized deployment & automated GitHub Actions CI checking
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Mobadratna — Student Initiatives Platform](https://github.com/Mobadratna-Org/mobadratna-student-portal)
+### 🎓 [Mobadratna — Student Portal](https://github.com/Mobadratna-Org/mobadratna-student-portal)
 
-**`PROBLEM`** Fragmented student initiatives and graduation projects lacking voluntary support.
+**`PROBLEM`** Fragmented student initiatives and graduation projects lacking volunteer matching structure.
 
 **`SOLUTION`**
-- Decentralized platform connecting initiatives with student volunteers
+- Decentralized platform connecting student initiatives with volunteers
 - Full administrative management controls & telemetry stats
-- Cairo typography Arabic layout interface
+- Cairo typography custom Arabic layout interface
 - Secure raw PHP API logic with prepared PDO database protection
 
 <p>
@@ -207,7 +202,7 @@ const sayedHerzallah = {
 <tr>
 <td width="50%" valign="top">
 
-### ☕ [El Fishawy — Full-Stack Cafe Platform](https://github.com/Sayed-Herzallah/elfishawy-cafe-frontend)
+### ☕ [El Fishawy — Cafe Platform](https://github.com/Sayed-Herzallah/elfishawy-cafe-frontend)
 
 **`PROBLEM`** Traditional cafe manual systems causing order processing delays and queue management errors.
 
@@ -226,9 +221,9 @@ const sayedHerzallah = {
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [NeuroScan — AI Brain Tumor Detector](https://github.com/Sayed-Herzallah/neuroscan-tumor-detector)
+### 🧠 [NeuroScan — AI Scan Platform](https://github.com/Sayed-Herzallah/neuroscan-tumor-detector)
 
-**`PROBLEM`** Need for fast, responsive web interfaces to display AI brain tumor detection results.
+**`PROBLEM`** Need for fast, responsive web interfaces to display AI brain tumor detection scan results.
 
 **`SOLUTION`**
 - Interactive medical scan visualizer platform built with React
@@ -249,7 +244,7 @@ const sayedHerzallah = {
 
 ### 🗺️ [Siwa — Booking Engine](https://github.com/Sayed-Herzallah/siwa-oasis-tourism-api)
 
-**`PROBLEM`** Double-booking race conditions during peak traffic causing financial errors.
+**`PROBLEM`** Double-booking race conditions during peak traffic causing database conflicts.
 
 **`SOLUTION`**
 - InnoDB row-level locking with `SELECT ... FOR UPDATE`
@@ -266,7 +261,7 @@ const sayedHerzallah = {
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/r3aya-medical-care-api)
+### 🏥 [R3aya — Healthcare Engine](https://github.com/Sayed-Herzallah/r3aya-medical-care-api)
 
 **`PROBLEM`** Real-time EMG sensor data needed sub-second delivery with zero data loss.
 
@@ -284,37 +279,17 @@ const sayedHerzallah = {
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 💬 [Social Graph — Feed System](https://github.com/Sayed-Herzallah/social-media-api)
-
-**`PROBLEM`** Timeline retrieval at scale with real-time concurrent messaging.
-
-**`SOLUTION`**
-- Cursor-based pagination — sub-10ms query latency
-- WebSocket messaging server — bidirectional streams
-- Friendship graph with mutual-follow detection
-- Zero-offset infinite scroll — no duplicate content
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-</p>
-
-</td>
-</tr>
 </table>
 
-## 📈 Live Metrics
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&theme=react&hide_rank=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&theme=react&hide_border=true&hide_rank=true" height="150px" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&theme=react" height="180px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=compact&hide_border=true&theme=react&hide=html,css,c%2B%2B,c" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=compact&theme=react&hide_border=true&hide=html,css,c%2B%2B,c" height="150px" />
 </div>
 
 <br><br>
@@ -338,12 +313,6 @@ const sayedHerzallah = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=120&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=2500&color=8b949e&center=true&vCenter=true&repeat=true&width=450&height=22&lines=Architected+with+intention.+Built+for+production." alt="Footer" />
 
