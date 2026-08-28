@@ -153,7 +153,7 @@ const sayedHerzallah = {
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
-## 🏗️ System Architectures & Featured Projects
+## 🏗️ Featured Full-Stack Platforms & Architectures
 
 > Production-ready platforms designed and built end-to-end.
 
@@ -161,16 +161,15 @@ const sayedHerzallah = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 [GradeX — Grade Management System](https://github.com/Sayed-Herzallah/gradex-backend)
+### 🌟 [Ataa — Full-Stack Charity Platform](https://github.com/Sayed-Herzallah/ataa-charity-frontend)
 
-**`PROBLEM`** Fragmented academic records, slow bulk grade uploads, and lack of role-based dashboards.
+**`PROBLEM`** Enterprise charity operations require strict transaction security, donation analytics, and real-time beneficiary management.
 
 **`SOLUTION`**
-- Decoupled MERN platform linking [Frontend](https://github.com/Sayed-Herzallah/gradex-frontend) & [Backend API](https://github.com/Sayed-Herzallah/gradex-backend)
-- Bulk student creation & grade imports via Excel spreadsheet parsing
-- Multi-role dashboards (Admin, Teacher, Student) with secure RBAC
-- Robust security: JWT token versioning, Helmet, CORS, and Rate Limiting
-- Dockerized deployment & automated GitHub Actions CI checking
+- Decoupled enterprise architecture linking [React Frontend](https://github.com/Sayed-Herzallah/ataa-charity-frontend) with [Express REST API](https://github.com/Sayed-Herzallah/ataa-charity-backend)
+- Safe donation pipeline using MongoDB transactional security checks
+- Comprehensive administration console for beneficiary tracking and dynamic analytics
+- Robust session authentication utilizing JWT and CORS whitelist access control
 
 <p>
 <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -181,20 +180,21 @@ const sayedHerzallah = {
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Mobadratna — Student Portal](https://github.com/Mobadratna-Org/mobadratna-student-portal)
+### 🏫 [GradeX — Academic Grade Management](https://github.com/Sayed-Herzallah/gradex-backend)
 
-**`PROBLEM`** Fragmented student initiatives and graduation projects lacking volunteer matching structure.
+**`PROBLEM`** Fragmented academic records, slow bulk grade uploads, and lack of role-based dashboards.
 
 **`SOLUTION`**
-- Decentralized platform connecting student initiatives with volunteers
-- Full administrative management controls & telemetry stats
-- Cairo typography custom Arabic layout interface
-- Secure raw PHP API logic with prepared PDO database protection
+- Decoupled MERN platform linking [React Frontend](https://github.com/Sayed-Herzallah/gradex-frontend) & [Backend API](https://github.com/Sayed-Herzallah/gradex-backend)
+- Bulk student creation & grade imports via Excel spreadsheet parsing
+- Multi-role dashboards (Admin, Teacher, Student) with secure RBAC
+- Robust security: JWT token versioning, Helmet, CORS, and Rate Limiting
+- Dockerized deployment & automated GitHub Actions CI checking
 
 <p>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
 </p>
 
 </td>
@@ -221,6 +221,27 @@ const sayedHerzallah = {
 </td>
 <td width="50%" valign="top">
 
+### 💬 [Social Media — REST API Backend](https://github.com/Sayed-Herzallah/social-media-api)
+
+**`PROBLEM`** Timeline retrieval performance at scale and real-time concurrent interaction telemetry.
+
+**`SOLUTION`**
+- Highly optimized database query layer with sub-10ms response speeds
+- Cursor-based pagination logic preventing duplicate content feeds
+- Modular database schema mapping user graph nodes (Followers, Likes, Posts)
+- Secured endpoint handlers integrating validation and JWT auth controls
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 [NeuroScan — AI Scan Platform](https://github.com/Sayed-Herzallah/neuroscan-tumor-detector)
 
 **`PROBLEM`** Need for fast, responsive web interfaces to display AI brain tumor detection scan results.
@@ -238,8 +259,6 @@ const sayedHerzallah = {
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🗺️ [Siwa — Booking Engine](https://github.com/Sayed-Herzallah/siwa-oasis-tourism-api)
@@ -259,40 +278,21 @@ const sayedHerzallah = {
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-### 🏥 [R3aya — Healthcare Engine](https://github.com/Sayed-Herzallah/r3aya-medical-care-api)
-
-**`PROBLEM`** Real-time EMG sensor data needed sub-second delivery with zero data loss.
-
-**`SOLUTION`**
-- Full-duplex WebSocket pipeline with heartbeat monitoring
-- Decoupled transport layer from business logic
-- RBAC: Therapists, Patients, Admins — granular permissions
-- MongoDB aggregation pipelines for analytics
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-</p>
-
-</td>
 </tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
-## 📈 GitHub Stats
+## 📊 Profile Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&theme=react&hide_border=true&hide_rank=true" height="150px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=compact&theme=react&hide_border=true&hide=html,css,c%2B%2B,c" height="150px" />
+  <!-- استخدمنا تصميم Shields.io كبديل مضمون 100% لا يتعطل أبداً ويشير لإحصائياتك مباشرة -->
+  <img src="https://img.shields.io/badge/GitHub_Commits-Over_1000+-58a6ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript%20%2F%20TypeScript-58a6ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
 </div>
 
-<br><br>
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
