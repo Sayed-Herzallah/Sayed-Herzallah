@@ -167,7 +167,7 @@ const sayedHerzallah = {
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/ataa-smart-charity-platform)
+### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/ataa-charity-frontend)
 
 **`PROBLEM`** Production donation system needing audit trails and analytics.
 
@@ -207,7 +207,47 @@ const sayedHerzallah = {
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [Siwa — Booking Engine](https://github.com/Siwa-Oasis-Org/siwa-oasis-tourism-api)
+### ☕ [El Fishawy — Full-Stack Cafe Platform](https://github.com/Sayed-Herzallah/elfishawy-cafe-frontend)
+
+**`PROBLEM`** Traditional cafe manual systems causing order processing delays and queue management errors.
+
+**`SOLUTION`**
+- Decoupled full-stack platform linking [Frontend](https://github.com/Sayed-Herzallah/elfishawy-cafe-frontend) & [Backend API](https://github.com/Sayed-Herzallah/elfishawy-cafe-backend)
+- Interactive product catalog & client ordering pipeline
+- Secure administrative dashboards for menus and telemetry logs
+- Mobile-first, responsive layouts designed with Tailwind CSS
+
+<p>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [NeuroScan — AI Brain Tumor Detector](https://github.com/Sayed-Herzallah/neuroscan-tumor-detector)
+
+**`PROBLEM`** Need for fast, responsive web interfaces to display AI brain tumor detection results.
+
+**`SOLUTION`**
+- Interactive medical scan visualizer platform built with React
+- Fast-loading asset pipeline powered by Vite
+- Clean responsive layout for medical professionals
+- Dynamic results page displaying confidence levels and metrics
+
+<p>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [Siwa — Booking Engine](https://github.com/Sayed-Herzallah/siwa-oasis-tourism-api)
 
 **`PROBLEM`** Double-booking race conditions during peak traffic causing financial errors.
 
@@ -226,7 +266,7 @@ const sayedHerzallah = {
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/r3aya-care-system-api)
+### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/r3aya-medical-care-api)
 
 **`PROBLEM`** Real-time EMG sensor data needed sub-second delivery with zero data loss.
 
@@ -270,19 +310,14 @@ const sayedHerzallah = {
 ## 📈 Live Metrics
 
 <div align="center">
-  <!-- تم إضافة &hide_rank=true لإخفاء التقييم C+ تماماً -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&border_radius=12&hide_rank=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&theme=react&hide_rank=true" height="180px" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=12" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&theme=react" height="180px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide=html,css,c%2B%2B,c&border_radius=12" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Herzallah&layout=compact&hide_border=true&theme=react&hide=html,css,c%2B%2B,c" height="180px" />
 </div>
 
 <br><br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayed-Herzallah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1a3a5c&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
